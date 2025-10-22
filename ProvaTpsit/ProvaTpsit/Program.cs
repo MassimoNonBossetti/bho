@@ -11,6 +11,7 @@ namespace ProvaTpsit
         static void Main(string[] args)
         {
         }
+    
     }
     class veicolo
     {
@@ -20,4 +21,9 @@ namespace ProvaTpsit
     {
 
     }
+    class moto:veicolo
+    {
+
+    }
+   
 }
